@@ -16,7 +16,7 @@ jobs:
       # ref: https://r7kamura.com/articles/2020-11-15-weneedfeed
       - uses: r7kamura/weneedfeed-action@v3
         with:
-          base_url: https://snyt45.github.io/weneedfeed-snyt45com/
+          base_url: https://snyt45.github.io/weneedfeed-snyt45com
       # artifactsにoutputのコンテンツをアップロード
       # ref: https://zenn.dev/ssssota/articles/f2509a21b768ed
       - uses: actions/upload-pages-artifact@v1
