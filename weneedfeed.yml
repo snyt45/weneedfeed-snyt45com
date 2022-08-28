@@ -1,0 +1,11 @@
+title: Small Changes RSS feeds
+
+pages:
+  - id: snyt45com
+    title: Small Changes
+    description: Small ChangesのRSSフィードです。
+    url: https://snyt45.com/
+    item_selector: article
+    item_link_selector: a
+    item_time_selector: time
+    item_title_selector: a
