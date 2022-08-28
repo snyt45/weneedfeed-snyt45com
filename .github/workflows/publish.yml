@@ -12,10 +12,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      # weneedfeed.ymlの内容でRSSフィードのXMLファイルを./outputディレクトリに出力
+      # ref: https://r7kamura.com/articles/2020-11-15-weneedfeed
       - uses: r7kamura/weneedfeed-action@v3
         with:
           base_url: https://snyt45.github.io/weneedfeed-snyt45com/
-      - uses: peaceiris/actions-gh-pages@v3
+      # artifactsにoutputのコンテンツをアップロード
+      # ref: https://zenn.dev/ssssota/articles/f2509a21b768ed
+      - uses: actions/upload-pages-artifact@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: output
+          path: output
+  deploy:
+    needs: publish # publishのjobに依存するのでneedsに指定
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
