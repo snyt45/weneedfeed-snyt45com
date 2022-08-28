@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Small Changes RSS feeds</title>
+  </head>
+  <body>
+    <outline text="Small Changes RSS feeds" title="Small Changes RSS feeds">
+      
+        <outline type="rss" attr="Small Changes" title="Small Changes" xmlUrl="https://snyt45.github.io/weneedfeed-snyt45com//feeds/snyt45com.xml" htmlUrl="https://snyt45.com/"/>
+      
+    </outline>
+  </body>
+</opml>

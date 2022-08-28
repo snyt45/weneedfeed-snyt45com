@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[Small Changes]]></title>
+    <link>https://snyt45.com/</link>
+    <atom:link href="https://snyt45.github.io/weneedfeed-snyt45com//feeds/snyt45com.xml" rel="self"/>
+    <description><![CDATA[Small ChangesのRSSフィードです]]></description>
+    <lastBuildDate>Sun, 28 Aug 2022 12:10:03 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Ubuntu22.04でruby3.1.0以外をインストールするのに苦労した話]]></title>
+      <link>https://snyt45.com/TdTglt5eQ</link>
+      
+        <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://snyt45.com/TdTglt5eQ</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Roam ResearchでZettelkastenを実践する]]></title>
+      <link>https://snyt45.com/18j8JdYuy</link>
+      
+        <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://snyt45.com/18j8JdYuy</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[2022年7月の振り返り]]></title>
+      <link>https://snyt45.com/oKLBemvZw</link>
+      
+        <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://snyt45.com/oKLBemvZw</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[仙台出張前にChromeリモートデスクトップを試してみた]]></title>
+      <link>https://snyt45.com/Ph5Yok7Zq</link>
+      
+        <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://snyt45.com/Ph5Yok7Zq</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Roam ResearchでGTDを実践する]]></title>
+      <link>https://snyt45.com/7nzMX-D02</link>
+      
+        <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://snyt45.com/7nzMX-D02</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[2022年6月の振り返り]]></title>
+      <link>https://snyt45.com/pDgRjvIOd</link>
+      
+        <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://snyt45.com/pDgRjvIOd</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[2022年5月の振り返り]]></title>
+      <link>https://snyt45.com/9W0vLoMdL</link>
+      
+        <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://snyt45.com/9W0vLoMdL</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[ようやくダックタイピングの意味が分かった]]></title>
+      <link>https://snyt45.com/LR_aCZ8Mh</link>
+      
+        <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://snyt45.com/LR_aCZ8Mh</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[[読書メモ]オブジェクト指向設計実践ガイド／4章 柔軟なインターフェイスをつくる]]></title>
+      <link>https://snyt45.com/YZMgwLMtL</link>
+      
+        <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://snyt45.com/YZMgwLMtL</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[2022年4月の振り返り]]></title>
+      <link>https://snyt45.com/RcFrYkKmB</link>
+      
+        <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <guid isPermaLink="true">https://snyt45.com/RcFrYkKmB</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
